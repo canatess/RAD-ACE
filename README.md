@@ -1,7 +1,7 @@
 # RAD-ACE
 
 ### CMP719 Computer Vision Project
-#### Authors: [Can Ali ATEŞ], [Emre ÇOBAN], [Abdullah Enes ERGÜN]
+#### Authors: Can Ali ATEŞ, Emre ÇOBAN, Abdullah Enes ERGÜN
 
 ## Overview
 RAD-ACE is a project focused on **fine-tuning vision-language large language models (LLMs)** for **medical report generation with structured reasoning**. It integrates advanced **computer vision** and **language models** to produce **accurate, coherent, and context-aware** medical analyses. The project aims to enhance the **interpretability and logical structuring** of AI-generated medical reports, ensuring consistency and clarity in diagnosis documentation.
