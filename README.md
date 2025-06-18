@@ -10,9 +10,9 @@ This project focuses on enhancing the **logical structuring** of AI-generated re
 
 ## 🧠 Models Used  
 _(Detailed descriptions can be added later for each model.)_  
-- 🔹 **Model 1**: Description of model usage  
-- 🔹 **Model 2**: Description of model usage  
-- 🔹 **Model 3**: Description of model usage  
+- 🔹 **Qwen 2.5 VL-3B**: Description of model usage  
+- 🔹 **Qwen 2.5 VL-7B**: Description of model usage  
+- 🔹 **Pixtral-12B**: Description of model usage  
 
 ## 📂 Dataset Sources  
 _(Links will be added for each dataset source.)_  
