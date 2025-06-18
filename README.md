@@ -1,4 +1,4 @@
-# 🏥 RAD-ACE: Vision-Language Medical Report Generation
+# 🏥 RAD-ACE: MULTIMODAL LARGE LANGUAGE MODELS AS RADIOLOGY ASSISTANTS
 
 ### 📌 CMP719 Computer Vision Project  
 #### ✍️ Authors: **Can Ali ATEŞ, Emre ÇOBAN, Abdullah Enes ERGÜN**  
