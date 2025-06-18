@@ -1,29 +1,30 @@
-# RAD-ACE
+# 🏥 RAD-ACE: Vision-Language Medical Report Generation
 
-### CMP719 Computer Vision Project
-#### Authors: Can Ali ATEŞ, Emre ÇOBAN, Abdullah Enes ERGÜN
+### 📌 CMP719 Computer Vision Project  
+#### ✍️ Authors: **Can Ali ATEŞ, Emre ÇOBAN, Abdullah Enes ERGÜN**  
 
-## Overview
-RAD-ACE is a project focused on **fine-tuning vision-language large language models (LLMs)** for **medical report generation with structured reasoning**. It integrates advanced **computer vision** and **language models** to produce **accurate, coherent, and context-aware** medical analyses. The project aims to enhance the **interpretability and logical structuring** of AI-generated medical reports, ensuring consistency and clarity in diagnosis documentation.
+## 🧐 Overview  
+**RAD-ACE** is a cutting-edge research project designed to **fine-tune vision-language large language models (LLMs)** for **structured medical report generation**. By integrating advanced **computer vision** with **language models**, it aims to produce **accurate, coherent, and context-aware** medical analyses.  
 
+This project focuses on enhancing the **logical structuring** of AI-generated reports, ensuring **interpretability, clinical reliability, and consistency** in diagnostic documentation.  
 
-## Models Used
-_(Subtitles can be added for each model later)_
-- **Model 1**: Description of model usage.
-- **Model 2**: Description of model usage.
-- **Model 3**: Description of model usage.
+## 🧠 Models Used  
+_(Detailed descriptions can be added later for each model.)_  
+- 🔹 **Model 1**: Description of model usage  
+- 🔹 **Model 2**: Description of model usage  
+- 🔹 **Model 3**: Description of model usage  
 
-## Dataset Sources
-_(Links to datasets)_
-- **Dataset 1**: [Dataset Link]
-- **Dataset 2**: [Dataset Link]
-- **Dataset 3**: [Dataset Link]
+## 📂 Dataset Sources  
+_(Links will be added for each dataset source.)_  
+- 🔗 **Dataset 1**: [Dataset Link]  
+- 🔗 **Dataset 2**: [Dataset Link]  
+- 🔗 **Dataset 3**: [Dataset Link]  
 
-## Research Paper
-For detailed methodology and findings, refer to our research paper:  
-**[Paper Title]** – [Paper Link]
+## 📄 Research Paper  
+For detailed insights into our methodology and findings, refer to our research paper:  
+📌 **[Paper Title]** – [Paper Link]  
 
-## Installation & Usage
-1. Clone the repository:
+## ⚙️ Installation & Usage  
+1️⃣ **Clone the repository:**  
    ```bash
    git clone https://github.com/canatess/RAD-ACE.git
