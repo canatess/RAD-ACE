@@ -11,13 +11,11 @@
 This project focuses on enhancing the **logical structuring** of AI-generated reports, ensuring **interpretability, clinical reliability, and consistency** in diagnostic documentation.  
 
 ## 🧠 Models Used  
-_(Detailed descriptions can be added later for each model.)_  
 - 🔹 **Qwen 2.5 VL-3B**: Lightweight VLM used for efficient inference and baseline evaluation on vision-language tasks.  
 - 🔹 **Qwen 2.5 VL-7B**: Larger variant for improved multimodal reasoning and image-text alignment. 
 - 🔹 **LLaMA 3.2 Vision - 11B**: High-capacity model used for advanced multimodal understanding, including visual question answering and report generation. 
 
 ## 📂 Dataset Sources  
-_(Links will be added for each dataset source.)_  
 - 🔗 **Dataset 1**: [[PubMedVision](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)]  
 - 🔗 **Dataset 2**: [[VQA-RAD](https://huggingface.co/datasets/flaviagiammarino/vqa-rad)]  
 
