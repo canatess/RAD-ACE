@@ -4,21 +4,20 @@
 #### ✍️ Authors: **Can Ali ATEŞ, Emre ÇOBAN, Abdullah Enes ERGÜN**  
 
 ## 🧐 Overview  
-**RAD-ACE** is a cutting-edge research project designed to **fine-tune vision-language large language models (LLMs)** for **structured medical report generation**. By integrating advanced **computer vision** with **language models**, it aims to produce **accurate, coherent, and context-aware** medical analyses.  
+**RAD-ACE** is a cutting-edge research project designed to **fine-tune vision-language large language models (VLLMs)** for **structured medical report generation**. By integrating advanced **computer vision** with **language models**, it aims to produce **accurate, coherent, and context-aware** medical analyses.  
 
 This project focuses on enhancing the **logical structuring** of AI-generated reports, ensuring **interpretability, clinical reliability, and consistency** in diagnostic documentation.  
 
 ## 🧠 Models Used  
 _(Detailed descriptions can be added later for each model.)_  
-- 🔹 **Qwen 2.5 VL-3B**: Description of model usage  
-- 🔹 **Qwen 2.5 VL-7B**: Description of model usage  
-- 🔹 **Pixtral-12B**: Description of model usage  
+- 🔹 **Qwen 2.5 VL-3B**: Lightweight VLM used for efficient inference and baseline evaluation on vision-language tasks.  
+- 🔹 **Qwen 2.5 VL-7B**: Larger variant for improved multimodal reasoning and image-text alignment. 
+- 🔹 **LLaMA 3.2 Vision - 11B**: High-capacity model used for advanced multimodal understanding, including visual question answering and report generation. 
 
 ## 📂 Dataset Sources  
 _(Links will be added for each dataset source.)_  
-- 🔗 **Dataset 1**: [Dataset Link]  
-- 🔗 **Dataset 2**: [Dataset Link]  
-- 🔗 **Dataset 3**: [Dataset Link]  
+- 🔗 **Dataset 1**: [[Dataset Link](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)]  
+- 🔗 **Dataset 2**: [[Dataset Link](https://huggingface.co/datasets/flaviagiammarino/vqa-rad)]  
 
 ## 📄 Research Paper  
 For detailed insights into our methodology and findings, refer to our research paper:  
