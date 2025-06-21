@@ -16,8 +16,8 @@ _(Detailed descriptions can be added later for each model.)_
 
 ## 📂 Dataset Sources  
 _(Links will be added for each dataset source.)_  
-- 🔗 **Dataset 1**: [[Dataset Link](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)]  
-- 🔗 **Dataset 2**: [[Dataset Link](https://huggingface.co/datasets/flaviagiammarino/vqa-rad)]  
+- 🔗 **Dataset 1**: [[PubMedVision](https://huggingface.co/datasets/FreedomIntelligence/PubMedVision)]  
+- 🔗 **Dataset 2**: [[VQA-RAD](https://huggingface.co/datasets/flaviagiammarino/vqa-rad)]  
 
 ## 📄 Research Paper  
 For detailed insights into our methodology and findings, refer to our research paper:  
