@@ -2,6 +2,8 @@
 
 ### 📌 CMP719 Computer Vision Project  
 #### ✍️ Authors: **Can Ali ATEŞ, Emre ÇOBAN, Abdullah Enes ERGÜN**  
+⚠️ **Important Note**
+> The training stages of the models were carried out using Google Colab Pro+ due to GPU issues. Due to a mismatch in notebook metadata between Colab and Github, direct viewing via Github is not possible (Invalid Notebook), so you will need to download the files.
 
 ## 🧐 Overview  
 **RAD-ACE** is a cutting-edge research project designed to **fine-tune vision-language large language models (VLLMs)** for **structured medical report generation**. By integrating advanced **computer vision** with **language models**, it aims to produce **accurate, coherent, and context-aware** medical analyses.  
