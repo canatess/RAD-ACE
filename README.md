@@ -21,7 +21,7 @@ This project focuses on enhancing the **logical structuring** of AI-generated re
 
 ## 📄 Research Paper  
 For detailed insights into our methodology and findings, refer to our research paper:  
-📌 **[Paper Title]** – [Paper Link]  
+📌 **[RAD-ACE: MLLMs AS RADIOLOGY ASSISTANTS]** – [Paper Link](https://github.com/canatess/RAD-ACE/blob/2d933bbc689de53925940de3086b3e888759db0f/Final%20Report.pdf)
 
 ## ⚙️ Installation & Usage  
 1️⃣ **Clone the repository:**  
